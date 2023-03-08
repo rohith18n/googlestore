@@ -1,0 +1,170 @@
+body{
+    margin: 0;
+}
+.header{
+    background-color: #fff;
+    height: 56px;
+}
+.gicon{
+    width: 24px;
+    height: auto;
+    position: absolute;
+    left: 60px;
+    top: 15px;
+    
+}
+.googlesearch{
+    width: 27px;
+    padding-right: 18px;
+}
+.Footeright {
+    padding-left:1200px ;
+    position: absolute;
+    left: 100px;
+    /* display: flex;
+    flex-direction: row; */
+}
+.footerright{
+width: 85px;
+}
+.mydp{
+    width: 30px;
+    padding-left: 19px;
+    padding-top: 12px;
+
+
+}.containerfirst{
+    text-align: center;
+    background-color: #fff;
+    height: 260px;
+    padding-top :40px ;
+}
+.containerfirst h1{
+  
+    color:#3c404c;
+    font-size: 60px;
+    font-family:"Google Sans Display","Roboto","Arial",sans-serif ;
+    font-weight: 700;
+    
+}
+.containerfirst p{
+
+color:#188038;
+    font-size: 60px;
+    font-family:"Google Sans Display","Roboto","Arial",sans-serif ;
+    font-weight: 700;
+    margin-top: -48px;
+}
+.containersec{
+    display: flex;
+    justify-content: end;
+
+}
+.containersec ul{
+   list-style-type: none;
+   font-size: 16px;
+    color: #3c4043;
+    font-family: Arial, Helvetica, sans-serif;  
+
+}
+.one,.two,.three{
+    width: 300px;
+    height: auto;
+    border: 20px solid white;
+    
+    border-bottom: 40px solid white ;
+    background-color: rgb(247, 242, 242);
+}
+.ctd{
+    display: flex;
+    justify-content: end;
+
+}
+.a,.b,.c{
+    width: 330px;
+    height: auto;
+    font-size: 16px;
+    color: #3c4043;
+    font-family: Arial, Helvetica, sans-serif;   
+}
+.cfo{
+    display: flex;
+    justify-content: end;
+}
+.aa,.bb,.cc{
+    width: 300px;
+    height: auto;
+    border: 20px solid white;
+   
+    border-bottom: 40px solid white ;
+    background-color: rgb(247, 242, 242);
+
+}
+.cfi{
+    display: flex;
+    justify-content: end;
+}
+.aaa,.bbb,.ccc{
+    width: 330px;
+    height: auto;
+    font-size: 16px;
+    color: #3c4043;
+    font-family: Arial, Helvetica, sans-serif;   
+}
+.cahc{
+   display: flex;
+   justify-content: end;
+   padding-top: 100px;
+   padding-right: 130px;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 15px;
+   
+}
+.ca{
+list-style-type: none;
+}
+.hc{
+    list-style-type: none;
+}
+.footer{
+    background-color: #fff;
+    height: 56px;
+    
+}
+.footer{
+    display: flex;
+}
+.i{
+    display: flex;
+    justify-content: space-between;
+    width: 150px;
+   padding-left: 100px;
+   color: #423f3f;
+   margin-top: 22px;
+}
+.ccciii{
+    list-style-type:none;
+     display: flex; 
+font-size: 10px;
+    justify-content: end;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   color: #423f3f;
+    padding-right: 100px; 
+    margin-left: 550px;
+  
+}
+.ccciii li{
+    padding: 15px;
+}
+.indialogo{
+    width: 16px;
+    height: 20px;
+    padding-top: 10px;
+}
+
+/* .leftctr{
+    padding-left: 10px;
+} */
+.one{
+    margin-left: 321px;
+}
